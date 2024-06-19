@@ -1,6 +1,5 @@
 # Space Invader Game
 
-![Space Invader Banner](https://via.placeholder.com/800x200.png?text=Space+Invader+Game)
 
 ## 🚀 Overview
 
@@ -9,13 +8,22 @@ Welcome to **Space Invader Game**, a thrilling and nostalgic arcade shooter game
 ## 🎮 Features
 
 - **Classic Gameplay**: Relive the classic arcade experience with modern enhancements.
-- **Power-ups**: Collect power-ups to boost your firepower and shield.
 - **Boss Battles**: Face off against formidable alien bosses.
-- **High Scores**: Compete for the top spot on the leaderboard.
-- **Customizable Ships**: Unlock and customize your spaceship with unique skins.
 
 ## 🔧 Installation
 
 1. **Clone the Repository**:
    ```sh
-   git clone https://github.com/yourusername/space-invader-game.git
+   git clone https://github.com/master-bytee/space-invader-game.git
+##📜 How to Play
+Move: Use arrow keys to move your spaceship.
+Shoot: Press the spacebar to shoot.
+Dodge: Avoid enemy projectiles and destroy all invaders.
+
+💻 Technologies Used
+-**Python**
+**pycharm project**
+
+## 👩‍💻Credit
+
+based on the project by   www.freecodecamp.org
